@@ -1,0 +1,1115 @@
+rubeus
+Adalanche
+ad-ldap-enum
+ADCSKiller
+ADenum
+adfsbrute
+ADMiner
+ADRecon
+archtorify
+Arecibo
+arp-scan
+ASNmap
+beanshooter
+bettercap
+bettercap web UI
+bloodyAD
+boofuzz
+Boomerang
+bore
+BruteSpray
+BruteX
+Carnivore
+CapAnalysis
+Cerbrutus
+Certipy
+certsync
+chisel
+CloudShark
+Coercer
+CrackMapExec
+DC Detector
+DnsFookup
+DNS Rebinding Tool
+Evil-WinRM
+evilginx2
+Garfield
+Girsh
+Go-RouterSocks
+GoldenCopy
+GoMapEnum
+goddi
+Group3r
+HASSH
+HEKATOMB
+HellRaiser
+HivExcavator
+hoaxshell
+HTTPRebind
+Hydra
+Ica2Tcp
+ImproHound
+Jaqen
+kalitorify
+Kerbrute
+Krbrelayx
+KubeHound
+LDAPmonitor
+ldeep
+Legba
+Ligolo
+Ligolo-ng
+linWinPwn
+Locksmith
+lsassy
+Mail.Rip V2
+MAN-SPIDER
+Masscan
+Medusa
+Medusa-gui
+modifyCertTemplate
+MSSQLRelay
+naabu
+ncat
+Ncrack
+nemesis
+NetExec
+Netfort Free Cloud Based PCAP Analysis
+NetworkMiner
+NetworkTotal
+ngocok
+Nipe
+Nmap
+nmap-parse-output
+NMapGUI
+Nozzlr
+ntlm_theft
+onesixtyone
+OOB-Server
+owabrute
+PacketFu
+PacketTotal
+PacketWhisper
+Patator
+PKINIT tools
+polarbearscan
+Polymorph
+PowerHuntShares
+PSPKIAudit
+pty4all
+pwncat
+pwncat-caleb
+pyGPOAbuse
+pywerview
+PyWhisker
+PyWSUS
+rbndr
+rdp-sec-check
+reGeorg
+Responder
+Rebind
+RMIScout
+RouterSploit
+Rubeus
+ruby-nmap
+Rustcat
+RustHound
+sandmap
+Scapy
+Seth
+SilentHound
+SiLK
+Singularity
+sJET
+Snaffler
+SNMP Brute
+snmpbw.pl
+Snort
+ssh-audit
+sshame
+Sshimpanzee
+Suricata Language Server
+Tsunami
+Turner
+WebMap v1
+WebMap v2
+Whonow
+windapsearch
+Wireshark
+WireSocks
+Whisker
+wmiexec-Pro
+XFLTReaT
+Xprobe2
+yersinia
+Zenmap
+Zmap
+CIS CAT Lite
+CIS CAT Pro
+Iniscan
+Local PHP Security Checker
+Lynis
+Master librarian
+Nipper Studio
+Nipper-ng
+pcc
+PingCastle
+YASAT
+APTRS
+Archery
+AttackForge.com
+Bulwark
+Canopy
+Cervantes
+CTFNote
+DART
+DefectDojo
+Dradis CE
+Dradis Pro
+Echidna
+envizon
+Faraday
+Ghostwriter
+hackOx
+Hackuity
+Hive
+Kvasir
+Lair
+MISP
+NightWriter
+OSCP Exam Report Template in Markdown
+OWASP PenText
+PatrOwl
+PeTeReport
+Pentest Collaboration Framework
+PenTest.WS
+PlexTrac
+Pollenisator
+Prithvi
+PTART
+PurpleOps
+PwnDoc
+PwnDoc-ng
+Reconmap
+Reporter
+Serpico
+Serpico-NG
+Sh00t
+Smersh
+SwiftnessX
+SysReptor
+vcr
+vuldash
+VULNREPO
+Vulnreport
+WriteHat
+ZinnoX Reporting Tool
+Adhrit
+AndroBugs Framework
+APKHunt
+APKLeaks
+Bearer
+Brakeman
+cIFrex
+CodeCat
+CodeQL
+Dawnscanner
+Joern
+Kube-hunter
+LICMA
+MobSF
+NodeJsScan
+QARK
+Semgrep
+SonarQube
+StaCoAn
+SUPER
+Tfsec
+Trivy
+weggli
+wpBullet
+c7decrypt
+Cipher Suite Info
+CryptoGuard
+crypto-identifier
+Crypton
+CRYPTOREX
+Cryscanner
+Dcode
+FeatherDuster
+Haiti
+hashID
+houndsniff
+JWT-Key-Recovery
+PkCrack
+RsaCtfTool
+RSATool
+RSHack
+XORTool
+AWS Extender CLI
+aws_pwn
+AzureADRecon
+CloudGPT
+CloudMapper
+CloudTracker
+Pacu
+Smogcloud
+DFIR ORC
+DFIRTrack
+Fenrir
+IntelMQ
+IRIS
+Loki
+Munin
+Osquery
+SCOT
+Sigma
+ThreatHound
+uncoder.io
+YARA
+yarAnalyzer
+Yara Toolkit
+yarGen
+YAYA
+Andriller
+Cerbero Profiler
+ds_store_exp
+EML analyzer
+ExifTool
+extundelete
+Fibratus
+Foremost
+ForensicMiner
+FTK Imager
+Live Forensicator
+MVT
+rekall
+rekall (Fireeye fork)
+ResourcesExtract
+shellbags
+Velociraptor
+volatility
+volatility (Fireeye fork)
+bbr
+bbrecon
+BBstats
+Bounty Dashboard
+bounty-targets
+BountyDash
+bountyplz
+BugBounty Web App
+Bugbountydash
+Hackerone::Client
+Needle
+alterx
+Amass
+Asnlookup
+AttackSurfaceMapper
+AutoRecon
+badKarma
+BBOT
+Belati
+Bitcrook
+cariddi
+Certstream
+Darkshot
+dataleaks
+datasploit
+DeadTrap
+DNSDumpster
+dnsenum
+dnsenum2
+DNSRecon
+dnsx
+domainfinder
+Domainim
+EagleEye
+Espionage
+eTools.ch
+Facebook_OSINT_Dump
+FinalRecon
+Findomain
+FOCA
+Geolocation Estimation
+GHunt
+GitFive
+gitGraber
+GitHound
+gittyleaks
+GooFuzz
+Gorecon
+GoSeek
+gOSINT
+h8mail
+Harpoon
+holehe
+Hunt3r
+Ignorant
+IVRE
+kitphishr
+Kostebek
+LeakDB
+LeakIX
+LeakLooker
+leakScraper
+LinEnum
+LinkedInDumper
+LittleBrother
+Maigret
+Malfrat's OSINT Map
+mantis
+MassDNS
+Metabigor
+mihari
+Netflip
+NExfil
+Nmmapper
+nqntnqnqmb
+Oblivion
+ODIN
+Omnibus
+OneForAll
+OnionSearch
+OSINT Framework
+Osintgram
+Osmedeus
+Photon
+PITT
+ProjectDiscovery
+ReconDog
+reconFTW
+Recon-ng
+Reconnoitre
+ReconScan
+Recsech
+Redscan
+Red Team Arsenal
+reNgine
+SearchDNS
+Sherlock
+Shodan
+shosubgo
+shuffledns
+SiteBroker
+Sn1per
+spiderfoot
+SprayHound
+Stalker
+SubDomainizer
+subfinder
+Sublist3r
+subzuf
+Sudomy
+Tempest
+Th3inspector
+theHarvester
+tinfoleak
+Totem
+trape
+TruffleHog
+TWINT
+uncover
+waymore
+yar
+bkcrack
+BEWGor
+Bopscrk
+CeWL
+ComPP
+cook
+Cracken
+CrackerJack
+Cracklord
+CrackQ
+crackpkcs12
+CrackStation
+crunch
+CUPP
+Duplicut
+elpscrk
+Fitcrack
+GAU
+GeoWordlists
+GoCrack
+graphcat
+Hashcat
+hashcobra
+HashKitty
+Hashpass
+Hashtopolis
+Hashview
+John The Ripper
+John the Ripper, Jumbo version
+johnny
+kh2hc
+Kraken
+Kraker
+longtongue
+lyricpass
+Mentalist
+Narthex
+npk
+NTLM to password
+Ophcrack
+PACK
+pnwgen
+PowerSniper
+pydictor
+RubyHashcat
+rulesfinder
+Spraygen
+TTPassGen
+Wavecrack
+WebHashcat
+WOG
+wordlist.rb
+wordlistctl
+wordlistgen
+Bodhi
+Bust-A-Kube
+bWAPP
+DVIA
+DVGA
+DVWA
+Google Gruyere
+Hackazon
+Metasploitable
+OWASP Juice Shop
+OWASP Mutillidae II
+OWASP WebGoat
+VAmPI
+XVNA
+ChipWhisperer
+SmmBackdoorNg
+Codechella Crisis Response
+Enki
+NTU Crysis
+OpenEx
+OASIS EMF
+ADB-Toolkit
+ADeleg
+AppsecStudy
+Atheris
+Avast Hack Check
+Axiom
+BHQW
+BQM
+BreachDirectory
+Cameradar
+ccs
+changedetection.io
+ConvertHound
+ctf-party
+CyberChef
+cybernews personal data leak check
+DeHashed
+discover
+DoubleTap
+doxycannon
+Firefox Monitor
+F-Secure Identity Theft Checker
+getsploit
+GOAD
+Godehashed
+gtfo
+GTFOBLookup
+HackTools
+Have I been pwned?
+HiddenWall
+hideNsneak
+HoundSploit
+Identity Leak Checker
+inlite
+Interlace
+itdis
+Leak Lookup
+LOAD
+Lookyloo
+mec
+Metasploit
+NameScan Email Compromised Check
+objection
+OpenVAS
+Pass Station
+PentestBox
+PhoneSploit Pro
+Pipal
+PWDQUERY
+rawsec_cli
+Reverse Shell Generator
+Ronin
+ronin-exploits
+ronin-payloads
+Scrounger
+SearchSploit
+Seccubus
+sploitctl
+SprayingToolkit
+Tool-X
+unisec
+Unredacter
+v0lt
+VBSmin
+webqr
+ysoserial
+AWS Extender
+BurpBounty
+CogniCrypt
+Copy As FFUF
+Copy As Go Request
+Copy as Node Request
+Copy as PowerShell Requests
+Copy As Python-Requests
+Copy As XMLHttpRequest
+Exporter
+HopLa
+http-screenshot-html
+Hyperpwn
+GEF
+IIS Tilde Enumeration Scanner
+KeePwn
+Matro7sh loaders
+Mona
+PEDA
+Pwndbg
+PwnFox
+Scavenger
+Sploitego
+Stepper
+ttddbg
+volatility-gpg
+vulners
+XSSor
+YesWeBurp
+Aircrack-Ng
+airgeddon
+BtleJack
+Crunch-Cracker
+Fluxion
+FruityWiFi
+Hijacker
+Infernal-Wireless
+intel-wifi-research-tools
+Kismet
+MDK3-master
+MDK4
+Modmobjam
+Modmobmap
+Oasis
+QCSuper
+reaver-wps
+reaver-wps (t6x fork)
+trackerjacker
+Wifi-Biter
+wifijammer
+wifite2
+abuseACL
+aclpwn
+ADFSDump
+ADFSpoof
+Android_Emuroot
+bkhive
+BloodHound
+cookie_crimes
+CookieCrimesJS
+creddump
+DCOMrade
+DLLInjector
+DLLPasswordFilterImplant
+DonPAPI
+Empire
+Empire GUI
+enum4linux
+enum4linux-ng
+FFM
+GH DLL Injector
+goddi
+GoodHound
+JAWS
+LaZagne
+LinEnum
+Linux Exploit Suggester 2
+linux-exploit-suggester.sh
+linuxprivchecker.py
+Masky
+mimikatz
+minidump
+NanoDump
+Nishang
+p0wnedShell
+PEASS
+PlumHound
+Powerless
+PowerSploit
+pspy
+pypykatz
+RedSnarf
+RustHound
+samdump2
+scavenger
+SCShell
+SharpShooter
+ShellPop
+TPMEE
+unicorn
+WES-NG
+Windows-Exploit-Suggester
+Maltego
+MISP
+Netglub
+OpenCTI
+PatrowlHears
+Pulsedive
+Redirect Tracker
+threatfeeds.io
+ThreatIngestor
+ThreatKB
+Watcher
+Yeti
+221b
+AntiScan.Me
+AVET
+BOF.NET
+Brute Ratel
+CarbonCopy
+ConfuserEx
+Cortex XDR Config Extractor
+Covenant
+CredMaster
+CSSG
+dnscat2
+Donut
+EDRSilencer
+fireELF
+Freeze
+gmailc2
+Gophish
+Go365
+gscript
+Hades
+Hades C2
+HardHat C2
+Havoc
+JavaScript Obfuscator
+Kage
+King Phisher
+Kubesploit
+lateralus
+LightsOut
+link
+LP-DB
+macro_pack
+Mangle
+Merlin
+MFASweep
+Mística
+Modlishka
+monomorph
+Mythic
+Nighthawk
+Nimbo-C2
+NimPlant
+Octopus
+Overlord
+pe_to_shellcode
+PEzor
+phpsploit
+PipeViewer
+PoshC2
+PowerShdll
+ProtectMyTooling
+Pupy
+Quasar
+Redcloud
+RedELK
+RedEye
+ReelPhish
+Ruler
+ScareCrow
+SHAD0W
+SharpC2
+SharpEDRChecker
+Shellcrypt
+Shelltropy
+SILENTTRINITY
+Sliver
+SocialFish
+Starkiller
+Synergy Httpx
+SysWhisper3
+TeamsImplant
+TrevorC2
+UBoat
+Villain
+Warhorse
+Zphisher
+broneypote
+Canarytokens
+DejaVU
+Galah
+pypotomux
+0d1n
+1u.ms
+230-OOB
+Acunetix
+Afuzz
+altair
+API-fuzzer
+Aquatone
+Arachni
+Arjun
+AssassinGo
+Astra
+Atlas
+b374k
+badsecrets
+BaRMIe
+Beeceptor
+BFAC
+Blazy
+Burp Suite
+Caido
+Cansina
+Chankro
+Charles
+ChopChop
+clairvoyance
+CloudFrunt
+CMSeek
+CMSmap
+CMSScan
+commix
+CrackQL
+CSP Evaluator
+CSPass
+CSWSH
+Dalfox
+dirb
+dirbuster
+dirsearch
+distributed-jwt-cracker
+docem
+DotDotPwn
+DotGit
+droopescan
+drupwn
+dtd-finder
+DVCS-Pillage
+dvcs-ripper
+Enemies Of Symfony
+Eyeballer
+EyeWitness
+Fav-up
+FavFreak
+Favinizer
+feroxbuster
+ffuf
+Fingerprinter
+Firefly
+Flask Session Cookie Decoder/Encoder
+FockCache
+Fuxi
+fuxploider
+Fuzzapi
+Ghauri
+git-dump
+git-dumper
+GitTools
+Gobuster
+gofingerprint
+goop
+Gopherus
+gowitness
+GraphCrawler
+Graphicator
+Graphinder
+GraphQL Voyager
+GraphMan
+GraphQL Cop
+graphql-path-enum
+graphql.security
+GraphQLmap
+graphw00f
+Guppy Proxy
+headerpwn
+Hetty
+Hookbin
+httpscreenshot
+httpx
+HUNT
+InQL
+Intrigue Core
+Interactsh
+IronWASP
+Jaeles
+JAST
+JSONBee
+JWT cracker
+jwt-cracker
+jwt-hack
+jwt_tool
+jwtcat
+Katana
+Kraken
+Liffy
+LFI Freak
+LFI Suite
+LightBulb
+LinkFinder
+Lulzbuster
+Kadimus
+Malzilla
+mitmproxy
+Mockbin
+monsoon
+MyJWT
+Netsparker
+nikto
+NoSQLMap
+Nosql-Exploitation-Framework
+Nuclei
+NtHiM
+otori
+OWASP JoomScan
+OWASP ZAP
+oxml_xxe
+Panoptic
+Pappy Proxy
+parameth
+ParamSpider
+Paros
+PeepingTom
+PHPGGC
+Pinkerton
+Portswigger Labs Inspector
+PowerUpSQL
+ppfuzz
+Rabid
+RequestBin
+RequestCatcher
+Request Inspector
+Rogue JNDI
+Retire.js
+ronin-vulns
+rustbuster
+Scout
+secureCodeBox
+See-SURF
+Session Hijacking Visual Exploitation
+ShapeShifter
+Simple Local File Inclusion Exploiter
+Sitadel
+SleuthQL
+Smuggler
+snallygaster
+spidr
+sqlmap
+SQLiv
+ssllabs-scan
+sslscan2
+SSLyze
+SSRF Proxy
+SSRFmap
+SSRF Sheriff
+STEWS
+Surf
+testssl.sh
+TIDoS Framework
+TLS map
+toxssin
+Tracy
+TrashCompactor
+tplmap
+Typo3Scan
+Uniscan
+V3n0M
+vaf
+Vega
+VOOKI
+w3af
+WAFNinja
+wapiti
+WappaGo
+WAScan
+webanalyze
+Webhook Tester
+Weevely
+Wfuzz
+What CMS
+WhatWeb
+wikto
+WitnessMe
+WPScan
+wrapwrap
+WS-Attacker
+WSFuzzer
+wsrepl
+WSSAT
+x8
+XCat
+Xenotix
+xnLinkFinder
+Xray
+XSinator
+XSpear
+XSRFProbe
+XSS hunter
+XSS Hunter Express
+XSS'OR
+XSS'OR 2
+XSSCon
+XSSer
+XSStrike
+XXEinjector
+xxeserv
+XXExploiter
+xxxpwn
+xxxpwn_smart
+YASUO
+Yoga
+ASLRay
+heaphopper
+libformatstr
+pwntools
+pwntools-ruby
+ROPgadget
+AnoMark
+BlueHound
+DARKSURGEON
+Deming
+driftctl
+FalconHound
+GraphQL Armor
+Have I Been Squatted? - Twistr
+Imagemagick Security Policy Evaluator
+libiris
+Mercator
+Pandora
+Pandora-box
+Santa
+usbsas
+Wazuh
+WHIDS
+cve-search
+CVEMap
+cvss-suite
+go-cve-dictionary
+GVM
+nvd_feed_api
+SECMON
+ThreatMapper
+VRT Ruby Wrapper
+Vulnogram
+Vuls
+Aperi'Solve
+Audacity
+Depix
+exif
+ExifTool
+Exiv2
+ImageMagick
+Outguess
+PNGtools
+SHIT
+SmartDeblur
+Sonic Visualiser
+Steganabara
+Steghide
+StegOnline
+StegoVeritas
+StegSolve
+zsteg
+androguard
+angr
+ANY RUN
+Apk2Gold
+Apktool
+arm_now
+Barf
+bearparser
+Binary Ninja
+binbloom
+binutils
+binwalk
+Dexcalibur
+boomerang
+CAPEv2
+Cerberus
+ctf_import
+CFF Explorer
+Cuckoo 3
+Cutter
+DbgShell
+Decompiler.com
+Decompiler Explorer
+Defuse online disassembler
+de4dot
+dnSpy
+dnSpyEx
+dotPeek
+DRAKVUF Sandbox
+Droidefense
+DroidGuard VM Samples
+edb
+EMBA
+Flare
+Flasm
+Flutter Spy
+Frida
+GDB
+Ghidra
+Hiew
+Honggfuzz
+Hopper
+IDA Pro
+ILSpy
+ImHex
+ImmunityDbg
+jadx
+Java Decompilers
+JD-GUI
+JEB
+JPEXS Free Flash Decompiler
+JSDetox
+Kemon
+Krakatau
+Kaitai Struct
+ldd
+Metasm
+Medusa
+netzob
+ODA
+OllyDbg
+PANDA
+PASTIS
+Pe-bear
+PE Explorer Disassembler
+PE Insider
+Plasma
+Qira
+RABCDAsm
+radare2
+rbkb
+ReFlutter
+Relyze
+RetDec
+sandsifter
+Snowman
+strace
+Swftools
+theZoo
+Triton
+TritonDSE
+TTD-Bindings
+Tweezer
+UglifyJS2
+uncompyle
+uncompyle6
+Vais
+WinDbg
+x64dbg
+XenoScan
+Xori
+xxxswf
+winpeas
+linpeas
